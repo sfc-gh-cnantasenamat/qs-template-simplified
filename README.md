@@ -1,3 +1,3 @@
 # qs-snowconvert
 
-![](assets/Snowflake_Logo.svg.png?raw=true)
+![](assets/Snowflake_Logo.svg.png)
